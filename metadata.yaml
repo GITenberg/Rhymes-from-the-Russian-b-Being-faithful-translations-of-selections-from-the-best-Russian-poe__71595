@@ -1,0 +1,33 @@
+_repo: Rhymes-from-the-Russian-b-Being-faithful-translations-of-selections-from-the-best-Russian-poe__71595
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Pollen, John Hungerford
+    aliases:
+    - Pollen, J. Hungerford (John Hungerford)
+    - Pollen, J. H. (John Hungerford)
+    birthdate: 1820
+    deathdate: 1902
+    gutenberg_agent_id: '39741'
+    url: http://www.gutenberg.org/2009/agents/39741
+description: ''
+gutenberg_issued: '2023-09-09'
+identifiers:
+  gutenberg: '71595'
+language: en
+pgterms:marc904: https://archive.org/details/rhymesfromrussia00poll/page/n7/mode/2up
+pgterms:marc905: 20230320184133pollen
+pgterms:marc906: '1891'
+pgterms:marc907: GB
+production_note: The Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive)
+publication_note: '  $aUnited Kingdom :$bKegan Paul, Trench, Trübner & Co., Ltd.,
+  $c1891.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Rhymes from the Russian : $b Being faithful translations of selections from
+  the best Russian poets'
+url: http://www.gutenberg.org/ebooks/71595
