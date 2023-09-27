@@ -1,5 +1,8 @@
 _repo: Rhymes-from-the-Russian-b-Being-faithful-translations-of-selections-from-the-best-Russian-poe__71595
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 71595-h/images/cover.jpg
 creator:
   author:
     agent_name: Pollen, John Hungerford
@@ -11,6 +14,8 @@ creator:
     gutenberg_agent_id: '39741'
     url: http://www.gutenberg.org/2009/agents/39741
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/71595#Rhymes-from-the-Russian-b-Being-faithful-translations-of-selections-from-the-best-Russian-poe_
 gutenberg_issued: '2023-09-09'
 identifiers:
   gutenberg: '71595'
